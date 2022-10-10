@@ -1,8 +1,11 @@
 # Projeto Urna eletrônica do curso B7Web
 Esta é a versão 1.0.0 do projeto de uma urna eletronica feito no curso de JavaScript do curso  B7web. O Objetivo é "simular" o funcionamento de uma Urna de votação.
 
+## .gif Exemplo
+![snackbar](https://github.com/juniornsantos/urna_eletronica/blob/main/giff.gif)
+
 ## Funcionamento
-Crie um JavaScrip ou Json com os candidatos a "Governador e Presidente".
+Crie um JavaScrip ou Json com os candidatos a "VEREADOR e PREFEITO".
 <br />Você pode definir quantos candidatos quiser desde que a variavel se chame **etapas**, Exemplo abaixo:
 
 ```go
@@ -40,9 +43,6 @@ let etapas = [
     }
 ];
 ```
-
-### .GIF EXEMPLO 
-![snackbar](https://github.com/juniornsantos/urna_eletronica/blob/main/giff.gif)
 
 
 ## Support
